@@ -34,6 +34,7 @@ public class AppTest
      * added other comment
      * another co
      * next comment
+     * com.... 3
      */
     public void testApp()
     {
